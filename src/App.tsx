@@ -1,5 +1,5 @@
 // ============================================================================
-// LMS THẦY PHÚC - MAIN APP (STABLE + LMS ASSIGNMENTS)
+// LMS CÔ PHAN HUYỀN - MAIN APP (STABLE + LMS ASSIGNMENTS)
 // - Giữ luồng cũ: Login/Chuyên đề/Thi/Lý thuyết/LeaderBoard/Anti-cheat/AI Tutor
 // - Bổ sung LMS: "Đề được giao" (Assignments) + Start Attempt + Submit kèm assignmentId/attemptId
 // ============================================================================
